@@ -16,7 +16,7 @@
 *  <b> My goal </b> is to check for significant difference between the control groups and group B.
 
 
-* <b> My project is divided to 4 parts: </b>
+* <b> My project is divided to 4 parts:</b>
     1. Prepare the data for analysis.
     2. Study and check the data.
     3. Study the event funnel.
